@@ -66,4 +66,4 @@ This is a simple Java console application developed to manage student records. I
 ### 🔧 Project Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-management-console-app.git
+   https://github.com/1sagarthakur1/CareerPrepAssginment
