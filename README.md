@@ -67,3 +67,23 @@ This is a simple Java console application developed to manage student records. I
 1. Clone this repository:
    ```bash
    https://github.com/1sagarthakur1/CareerPrepAssginment
+
+--- Student Management Menu ---
+1. Add Student
+2. Display All Students
+3. Update Marks by Roll No
+4. Exit
+Enter your choice: 1
+Enter Name: Alice
+Enter Roll Number: 101
+Enter Course: Java
+Enter Marks: 90
+
+--- Student Management Menu ---
+2
+Name: Alice
+Roll Number: 101
+Course: Java
+Marks: 90
+----------------------
+
